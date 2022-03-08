@@ -11,4 +11,8 @@
 @import url("primeicons/primeicons.css");
 @import "primeflex/primeflex.scss";
 @import "./styles/index.scss";
+
+* {
+  font-family: $FontFamily;
+}
 </style>
